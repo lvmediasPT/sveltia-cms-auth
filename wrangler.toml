@@ -1,3 +1,6 @@
 name = "sveltia-cms-auth"
 main = "src/index.js"
 compatibility_date = "2023-03-24"
+
+# Mantém as variáveis postas no painel da Cloudflare a cada publicação
+keep_vars = true
